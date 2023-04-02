@@ -10,7 +10,7 @@
 
 **<h6>Pull Request Gönder !</h6>**
 
-**Rick Roll Yönlendirmeli İstiyorsan <a href="https://github.com/kardespro/deha.cc/blob/main/domains/rickroll.json">Tıkla</a>**
+**Rick Roll Yönlendirmeli İstiyorsan Bu Şuan Olmuyor :( Anca Github Pages Üzerinden Yapa Bilirsin**
 # <h1 style="font-family:bold;">Wow ! Artık Sende Dehacısın ! </h1>
 
 # Bu Subdomainleri Kabul etmiyoruz !
