@@ -1,4 +1,3 @@
 [
-  { "name": "nego", "type": "A", "content": "185.3.31.3"},
-  { "name": "api4", "type": "A", content: "183.2.3.44"}
+  { "name": "nego", "type": "A", "content": "185.3.31.3"}
 ]
